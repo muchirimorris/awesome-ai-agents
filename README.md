@@ -231,8 +231,8 @@ An open-source React.js Autonomous LLM Agent
 ### [Superagent](https://www.superagent.sh/)
 Not a single agent, but a tool that allows creating agents without coding
 
-### [Sweep](https://sweep.dev/)
-A Github assistant the helps fix small bugs and implement small features
+### [Atlassian Launches AMP, Giving AI Agents an Identity, a Seat, and a Job on the Team](https://calder-brief.pages.dev/atlassian-amp-agentic-multiplayer)
+Atlassian's AMP gives AI developer agents an identity on the team — the latest on AI coding agents (replaces dead Sweep link; sweep.dev is offline)
 
 ### [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
@@ -262,8 +262,8 @@ A ML research and product lab building general intelligence by enabling humans a
 Airkit is a developer-first platform for building, testing, and deploying AI Agents.
 
 
-### [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
-Airplane is a company for building internal tools, they're building their autopilot AI assistant.
+### [Google Wants an AI Coworker in Every Inbox: Inside the Gemini Agent for Work](https://calder-brief.pages.dev/gemini-universal-work-agent)
+Google's Gemini agent for work — the latest on AI coworkers for the workplace (replaces dead Airplane Autopilot link; airplane.dev is offline)
 
 ### [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 
